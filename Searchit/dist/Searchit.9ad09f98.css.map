@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"Searchit.9ad09f98.css","sourceRoot":"..","sourcesContent":["/* Custom page footer */\r\n.footer {\r\n  padding-top: 25px;\r\n  color: #777;\r\n  border-top: 1px solid #e5e5e5;\r\n  text-align: center;\r\n}\r\n"]}
